@@ -104,13 +104,15 @@ Tarefas que estão atualmente em desenvolvimento.
     <img src="imagens/inProgress2.png" style="width:45%"/>
 
 ## In Review
-Tarefas concluídas, mas que estão passando por revisão técnica ou validação.
+Tarefas concluídas, mas que estão passando por revisão
 
 <p align="center" style="display: flex; justify-content: space-around">
     <img src="imagens/InReview.png" style="width:45%"/>
 
+
 ## Redo
-Tarefas que precisam ser refeitas ou ajustadas após a revisão.
+Tarefas que precisam ser refeitas ou ajustadas após a revisão.No momento estamos com nenhuma. 
+
 <p align="center" style="display: flex; justify-content: space-around">
     <img src="imagens/donee.png" style="width:45%"/>
 
