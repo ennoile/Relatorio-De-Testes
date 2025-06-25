@@ -114,7 +114,7 @@ Tarefas concluídas, mas que estão passando por revisão
 Tarefas que precisam ser refeitas ou ajustadas após a revisão.No momento estamos com nenhuma. 
 
 <p align="center" style="display: flex; justify-content: space-around">
-    <img src="imagens/donee.png" style="width:50% />
+    <img src="imagens/redo.png" style="width:50% />
 
 ## Done
 Tarefas finalizadas e aprovadas. Já passaram por todos os estágios anteriores.
